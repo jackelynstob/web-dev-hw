@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=East+Sea+Dokdo|Roboto+Condensed');
+
+@font-face{
+  font-family: 'East Sea Dokdo';
+  src: url('../EastSeaDokdo-Regular.tff') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face{
+  font-family: 'Roboto Condensed' serif;
+  src: url('../RobotoCondensed-Regular.tff') format('opentype');
+  font-weight: ;
+  font-style: normal;
+}
+
+
+
+h1{
+  font-family: 'Roboto Condensed' serif;
+  text-align: left;
+  font-size: 100%;
+}
+
+h2{
+  font-family: 'East Sea Dokdo', cursive;
+  text-align: center;
+  font-size: 350%;
+}
+
+h3{
+  font-family: 'Roboto Condensed' serif;
+  text-align: center;
+  font-weight: bold;
+  font-size: 130%;
+}
+
+h4{
+  font-family: 'East Sea Dokdo', cursive;
+  text-align: center;
+  font-size: 200%;
+  text-decoration: underline;
+}
+
+h5{
+  font-family: serif;
+  text-align: left;
+  font-size: 100%;
+  line-height: 140%;
+  text-align: justify;
+  letter-spacing: 0.6px;
+  font-weight: lighter;
+}

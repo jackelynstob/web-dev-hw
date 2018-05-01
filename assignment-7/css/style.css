@@ -1,0 +1,39 @@
+html {
+  padding: 0px;
+  background-color: black;
+}
+
+#header {
+  border: 5px solid black;
+  margin: auto;
+  padding: 10px;
+  background-color: gold;
+}
+
+.body {
+  padding: 10px;
+  margin: auto;
+  border: 5px solid black;
+  background-color: gold;
+  text-align: justify;
+}
+
+.button {
+  font-size: 120%
+  color: white;
+  font-weight: 200;
+  text-align: center;
+}
+
+.button:hover {
+  background-color: gold;
+  font-style: italic;
+}
+
+.button:active {
+  background-color: yellow;
+}
+
+.button:visited {
+  background-color: red;
+}
