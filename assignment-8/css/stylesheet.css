@@ -1,0 +1,242 @@
+body {
+background-color: #FDFDF1;
+
+}
+
+
+#ohhh1 {
+	font-family: "Hoefler Text", Times, "Times New Roman", serif;
+	font-size: 32px;
+	font-style: italic;
+	color: #303F44;
+	position: absolute;
+	width: 250px;
+	left: 400px;
+	top: 30px;
+  rotation: 10;
+}
+
+#ohhh2 {
+  font-family: "Hoefler Text", Times, "Times New Roman", serif;
+	font-size: 32px;
+	font-style: italic;
+	color: #303F44;
+	position: absolute;
+	width: 250px;
+	left: 600px;
+	top: 30px;
+  rotation: -10;
+}
+
+#ohhh3 {
+	font-family: "Hoefler Text", Times, "Times New Roman", serif;
+	font-size: 21px;
+	color: #303F44;
+	position: absolute;
+	left: 300px;
+	top: 100px;
+	width: 675px;
+}
+
+#FQueen {
+	font-family: "Hoefler Text", Times, "Times New Roman", serif;
+  background-color: #303F44;
+  font-size: 28px;
+  color: #FFFFFF;
+	height: 100px;
+	width: 360px;
+	position: absolute;
+	left: 460px;
+	top: 210px;
+}
+
+#bagless {
+	font-family: "Hoefler Text", Times, "Times New Roman", serif;
+	font-size: 12px;
+	color: #303F44;
+	position: absolute;
+	left: 430px;
+	top: 310px;
+	width: 320px;
+}
+
+.woman {
+	z-index:2;
+	position: absolute;
+	left: 70px;
+	top: 10px;
+}
+
+.icons {
+	position: absolute;
+	left: 400px;
+	top: 380px;
+	width: 180px;
+	height: 180px;
+}
+
+.icons1{
+	position: absolute;
+	left: 420px;
+	top: 520px;
+	width: 150px;
+	height: 180px;
+}
+
+.icons2 {
+	position: absolute;
+	left: 440px;
+	top: 665px;
+	width: 180px;
+	height: 180px;
+}
+
+.red {
+	font-family: Serif;
+	font-size: 50px;
+	position: absolute;
+	color: #ED1701;
+}
+
+.honest {
+  left: 600px;
+	top: 350px;
+  width: 150px;
+}
+
+.glory {
+	left: 510px;
+	top: 500px;
+	width: 400px;
+}
+
+.whee {
+	left: 600px;
+	top: 620px;
+	width: 220px;
+}
+
+.text {
+	font-family: "Hoefler Text", Times, "Times New Roman", serif;
+	font-size: 9px;
+  text-align: left;
+	color: #303f44;
+	position: absolute;
+}
+
+.honestText {
+	left: 630px;
+	top: 400px;
+	width: 240px;
+}
+
+.gloryText {
+	left: 630px;
+	top: 560px;
+	width: 240px;
+}
+
+.wheeText {
+	left: 630px;
+	top: 675px;
+	width: 235px;
+}
+
+.kidsPic {
+	position: absolute;
+	left: 40px;
+	top: 850px;
+}
+
+.header1 {
+	font-family: "Hoefler Text", Times, "Times New Roman", serif;
+	position: absolute;
+  font-size: 9px;
+	color: #303F44;
+	left: -20px;
+	top: 1100px;
+	width: 380px;
+}
+
+.header2 {
+	font-family: "Hoefler Text", Times, "Times New Roman", serif;
+	font-size: 9px;
+	position: absolute;
+	color: #303F44;
+	left: 15px;
+	top: 1540px;
+	width: 380px;
+}
+
+.presentingText {
+	font-family: "Hoefler Text", Times, "Times New Roman", serif;
+	font-size: 21.5px;
+	color: #303F44;
+	position: absolute;
+	left: 500px;
+	top: 800px;
+	width: 420px;
+	height: 230px;
+	vertical-align: 38pt;
+	line-height: 1.4;
+	text-align: justify;
+}
+
+
+.copy1 {
+	font-family: "Hoefler Text", Times, "Times New Roman", serif;
+	font-size: 17px;
+  position: absolute;
+  text-align: justify;
+	color: #303F44;
+	left: 40px;
+	top: 1120px;
+	width: 350px;
+	height: 152px;
+}
+
+.copy2 {
+	font-family: "Hoefler Text", Times, "Times New Roman", serif;
+	position: absolute;
+	font-size: 18px;
+  text-align: justify;
+	color: #303F44;
+	left: 27px;
+	top: 1570px;
+	width: 390px;
+	height: 152px;
+}
+
+.vacuum {
+	position: absolute;
+	left: 45px;
+	top: 1250px;
+}
+
+.logo {
+	position: absolute;
+	left: 380px;
+	top: 1190px;
+  z-index: 4;
+}
+
+.guaranteed {
+  position: absolute;
+  left: 765px;
+  top: 1395px;
+  z-index: 5;
+}
+
+.mail {
+	font-family: "Hoefler Text", Times, "Times New Roman", serif;
+	border: thin dashed #303F44;
+	position: absolute;
+  padding: 10px;
+  text-align: justify;
+	left: 470px;
+	top: 1480px;
+  background-color: #FDFDF1;
+	width: 430px;
+  height: 210px;
+  z-index: 6;
+}
